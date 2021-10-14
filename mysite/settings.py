@@ -25,7 +25,7 @@ SECRET_KEY = 'c7)u*^13f)ci!@l7^(h%-ws$*0+cgi$t&l4b#$l5l(xy7fh-#p'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://lucy2021.pythonanywhere.com/']
 
 
 # Application definition
